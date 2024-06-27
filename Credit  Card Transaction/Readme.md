@@ -1,4 +1,4 @@
-#**SQL-Project-on-Credit-Card-Transactions**#
+**SQL-Project-on-Credit-Card-Transactions**
 
 Project Overview
 Description:
