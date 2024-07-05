@@ -1,13 +1,13 @@
-#**SQL-Project-on-Olympics-History**#
+**SQL-Project-on-Olympics-History**
 
-#***Project Overview***#
+***Project Overview***
 This project involved an in-depth analysis of Olympic data spanning 120 years, from 1896 to 2016, to uncover key insights and trends. Utilizing two comprehensive datasets, the analysis aimed to provide a detailed understanding of athlete performances, team achievements, and historical milestones in the Olympics.
 
-#***Datasets***#
+***Datasets***
 1. Athlete Dataset: This dataset contains information about the athletes, including their attributes and the teams they represent.
 2. Event Dataset: This dataset includes details about various events, the seasons in which they took place, and the athletes who participated and won medals for their teams.
 
-#***Key Insights Generated***#
+***Key Insights Generated***
 By leveraging SQL queries, the following insights were extracted:
 
 1. The team that has won the maximum gold medals over the years.
@@ -26,10 +26,10 @@ By leveraging SQL queries, the following insights were extracted:
 
 8. Players who have won gold medals in consecutive 3 summer olympics in the same event . Consider only olympics 2000 onwards. Assume summer olympics happens every 4 year starting 2000. print player name and event name.
 
-#***Technologies Used***#
+***Technologies Used***
 - **Database Management System**: Microsoft SQL Server
 - **Skills Utilized**: SQL querying, data analysis.
 
-#***Conclusion***#
+***Conclusion***
 This project demonstrates my ability to handle large datasets, perform complex data analyses, and generate meaningful insights through SQL queries, showcasing my expertise in database management and data analytics.
 
